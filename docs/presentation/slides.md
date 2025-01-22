@@ -5,7 +5,7 @@
 					<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/OFPPT_Logo.png" alt="">
 				</div>
         
-# ATELIER.MODEL  
+# E-Commerce Project 
 ## LARAVEL  
 <div style="display: flex; gap: 20px;">
 Par : Mohammed Amine Bennani Kabchi  
@@ -23,7 +23,7 @@ Par : Mohammed Amine Bennani Kabchi
 
 ### **2-2TUP Methodology:**
 
-<img src="" alt="2TUP" style="width: 600px; height: auto;" />
+<img src="https://www.researchgate.net/publication/303497462/figure/fig6/AS:556507492487174@1509693133373/La-methode-2TUP-6.png" alt="2TUP" style="width: 600px; height: auto;" />
 
 ---
 
