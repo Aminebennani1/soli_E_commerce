@@ -21,14 +21,28 @@ Par : Mohammed Amine Bennani Kabchi
 
 ---
 
-### **2-2TUP Methodology:**
+### **Methode de travail:**
+
+- 2.1. Scrum
+- 2.2. 2TUP
+  
+|||
+
+- 2.1. Scrum
+
+|||
+
+2.2. 2TUP
 
 <img src="https://www.researchgate.net/publication/303497462/figure/fig6/AS:556507492487174@1509693133373/La-methode-2TUP-6.png" alt="2TUP" style="width: 600px; height: auto;" />
+
 
 ---
 
 ### **3. Planification:**
 
+|||
+### **3.1  Planification:**
 <table style="font-size: 28px">
   <tr>
     <th></th>
@@ -98,44 +112,77 @@ Par : Mohammed Amine Bennani Kabchi
   </tr>
 </table>
 
----
+|||
 
-### **4. Analyse:**
 
-<img src="assets/Analyse.svg" alt="Analyse" style="width: 600px; height: auto;" />
-
----
-
-### **5. Design:**
-
-<img src="assets/Design.svg" alt="Design" style="width: 600px; height: auto;" />
+### **3.2. Diagramme de Gantt:**
 
 ---
 
-### **6. Apprentissage:**
+### **4. Branche technique:**
+- 4.1. Capture de besoins techniques
+- 4.2. Analyse technique
+- 4.3. Auto-formation
+- 4.4. Conception generique
 
-- Blade
-- Controller
-- Model
-- Repository
+|||
+### **4.1. Capture de besoins techniques:**
+- Tailwind CSS
 - Ajax
+- Laravel
+- MySQL
+|||
+### **4.2. Analyse technique:**
+- Laravel Avancé
+- One page application (AJAX)
+|||
+### **4.3. Auto-formation:**
+- Blade Avancé
+- Controller Avancé
+- Model Avancé
+- Manager
+- Ajax
+|||
+
+  ### **4.4. Conception generique:**
+- afficher un produit
+- ajouter un produit
+- supprimer un produit
+- one-page
+- Manager
+---
+
+### **5. Branche fonctionnelle:**
+- 5.1. Capture de besoins fonctionnels
+- 5.2. Analyse fonctionnelle
+- 5.3. Sprint 1
+- 5.4. Sprint 2
+|||
+### **5.1. Capture de besoins fonctionnels:**
+|||
+### **5.2. Analyse fonctionnelle:**
+|||
+### **5.3. Sprint 1**
+|||
+### **5.3. Sprint 2**
+
 
 ---
 
-### **7. Prototype:**
-
-- view product
-- add product
-- delete product
-- ajax (one-page)
-- repository
-
----
-
-### **8. Realization:**
+### **6. Conception:**
+- 6.1. Diagramme de class
+- 6.2. Maquette
+|||
+### **6.1. Diagramme de class:**
+|||
+### **6.2. Maquette**
 
 ---
 
-### **9. Conclusion:**
+### **7. Realization:**
+
+---
+
+### **8. Conclusion:**
 
 <img src="assets/Conclusion.svg" alt="Conclusion" style="width: 600px; height: auto;" />
